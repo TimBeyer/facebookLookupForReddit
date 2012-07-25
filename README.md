@@ -10,3 +10,5 @@ Chrome and I wanted to make a point about online privacy.
 
 People should be aware of the fact that using your common 
 username for facebook will make it very easy to identify you.
+
+[Download here](https://github.com/downloads/TheShellfishMeme/facebookLookupForReddit/facebookLookup.crx)
