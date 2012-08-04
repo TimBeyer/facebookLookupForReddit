@@ -1,7 +1,7 @@
 {
   "name": "Facebook Lookup for reddit",
   "manifest_version": 2,
-  "version": "2.0",
+  "version": "2.1",
   "description": "Allows to look up user names using the Facebook API",
   "permissions":[
   	"http://*.reddit.com/*",
@@ -13,7 +13,7 @@
   "content_scripts": [
     {
       "matches": ["http://www.reddit.com/*"],
-      "js": ["facebookquery.js"]
+      "js": ["jquery.js","facebookquery.js"]
     }
   ],
 
